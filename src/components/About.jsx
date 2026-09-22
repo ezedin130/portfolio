@@ -19,7 +19,7 @@ const About = () => {
                 <motion.div style={{ x: x1 }} className="text-[15rem] font-black font-['Space_Grotesk'] whitespace-nowrap leading-none">
                     PERFORMANCE DEPENDABILITY
                 </motion.div>
-                <motion.div style={{ x: x2 }} className="text-[15rem] font-black font-['Space_Grotesk'] whitespace-nowrap leading-none text-transparent stroke-text" style={{ WebkitTextStroke: '2px white', color: 'transparent', x: x2 }}>
+                <motion.div className="text-[15rem] font-black font-['Space_Grotesk'] whitespace-nowrap leading-none text-transparent stroke-text" style={{ WebkitTextStroke: '2px white', color: 'transparent', x: x2 }}>
                     ARCHITECTURE SECURITY
                 </motion.div>
             </div>
